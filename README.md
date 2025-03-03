@@ -1,3 +1,7 @@
+# CS230
+
+Hamad Alghaithi
+
 The Gaming Room is a client that developed a game application, "Draw It or Lose It," initially for Android platforms. This game is inspired by the classic television game show Win, Lose or Draw, where teams compete to guess images drawn from a large library of stock images. The client wanted to expand this game to multiple platforms and requested a comprehensive software design document to guide the development of a web-based, multi-platform version. This document would detail the architecture, platform evaluation, memory management, and security considerations required to make the game scalable and accessible to a broader audience.
 
 In developing this document, I particularly excelled in the platform evaluation and recommendations sections. I thoroughly analyzed the capabilities of Linux, Mac, Windows, and mobile platforms, providing The Gaming Room with clear insights into the strengths and weaknesses of each option. I also emphasized a modular, distributed system architecture to support scalability, which I believe will greatly aid future development and deployment across platforms.
